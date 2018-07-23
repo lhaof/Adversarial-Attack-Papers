@@ -43,3 +43,5 @@ ICLR 2018 Thermometer Encoding: One Hot Way To Resist Adversarial Examples https
 ICLR 2018 Towards Deep Learning Models Resistant to Adversarial Attacks https://github.com/karandwivedi42/adversarial 
 
 ICML 2018 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (Amazingly Good, kicking-face-paper, Need-to-Read Carefully) https://github.com/anishathalye/obfuscated-gradients 
+
+NIPS 2017 Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation https://github.com/max-andr/cross-lipschitz 
