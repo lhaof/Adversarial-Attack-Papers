@@ -37,3 +37,7 @@ ICLR 2018 Mitigating Adversarial Effects Through Randomization https://github.co
 ICLR 2018 Spatially Transformed Adversarial Examples https://github.com/rakutentech/stAdv 
 
 ICLR 2018 Stochastic activation pruning for robust adversarial defense https://github.com/anishathalye/obfuscated-gradients 
+
+ICLR 2018 Thermometer Encoding: One Hot Way To Resist Adversarial Examples https://github.com/Flag-C/ThermometerEncoding  https://github.com/anishathalye/obfuscated-gradients/tree/master/thermometer 
+
+ICML 2018 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (Amazingly Good, kicking-face-paper) https://github.com/anishathalye/obfuscated-gradients 
