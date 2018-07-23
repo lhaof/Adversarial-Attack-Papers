@@ -35,3 +35,5 @@ ICLR 2018 Generating Natural Adversarial Examples https://github.com/zhengliz/na
 ICLR 2018 Mitigating Adversarial Effects Through Randomization https://github.com/cihangxie/NIPS2017_adv_challenge_defense 
 
 ICLR 2018 Spatially Transformed Adversarial Examples https://github.com/rakutentech/stAdv 
+
+ICLR 2018 Stochastic activation pruning for robust adversarial defense https://github.com/anishathalye/obfuscated-gradients 
