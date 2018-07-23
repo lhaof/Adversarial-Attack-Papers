@@ -13,3 +13,5 @@ CVPR 2018 Art of singular vectors and universal adversarial perturbations https:
 CVPR 2018 Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser https://github.com/lfz/Guided-Denoise
 
 CVPR 2018 Generative Adversarial Perturbations https://github.com/OmidPoursaeed/Generative_Adversarial_Perturbations
+
+ICLR 2018 Cascade Adversarial Training Regularized with a Unified Embedding https://github.com/taesikna/cascade_adv_training 
