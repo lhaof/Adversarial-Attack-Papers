@@ -45,3 +45,10 @@ ICLR 2018 Towards Deep Learning Models Resistant to Adversarial Attacks https://
 ICML 2018 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (Amazingly Good, kicking-face-paper, Need-to-Read Carefully) https://github.com/anishathalye/obfuscated-gradients 
 
 NIPS 2017 Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation https://github.com/max-andr/cross-lipschitz 
+
+ICML 2018 Synthesizing robust adversarial examples https://github.com/prabhant/synthesizing-robust-adversarial-examples 
+
+ICML 2018 Adversarial Attack on Graph Structured Data https://github.com/Hanjun-Dai/graph_adversarial_attack 
+
+ICML 2018 Black-box Adversarial Attacks with Limited Queries and Information https://github.com/labsix/limited-blackbox-attacks 
+
