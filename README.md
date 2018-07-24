@@ -38,19 +38,19 @@ ICLR 2018 Spatially Transformed Adversarial Examples https://arxiv.org/abs/1801.
 
 ICLR 2018 Stochastic activation pruning for robust adversarial defense https://arxiv.org/abs/1803.01442  https://github.com/anishathalye/obfuscated-gradients 
 
-ICLR 2018 Thermometer Encoding: One Hot Way To Resist Adversarial Examples https://github.com/Flag-C/ThermometerEncoding  https://github.com/anishathalye/obfuscated-gradients/tree/master/thermometer 
+ICLR 2018 Thermometer Encoding: One Hot Way To Resist Adversarial Examples https://openreview.net/forum?id=S18Su--CW  https://github.com/Flag-C/ThermometerEncoding  https://github.com/anishathalye/obfuscated-gradients/tree/master/thermometer 
 
-ICLR 2018 Towards Deep Learning Models Resistant to Adversarial Attacks https://github.com/karandwivedi42/adversarial 
+ICLR 2018 Towards Deep Learning Models Resistant to Adversarial Attacks https://arxiv.org/abs/1706.06083  https://github.com/karandwivedi42/adversarial 
 
-ICML & NIPS 2017 workshop? Provable defenses against adversarial examples via the convex outer adversarial polytope Scaling provable adversarial defenses https://github.com/locuslab/convex_adversarial 
+ICML & NIPS 2017 workshop? Provable defenses against adversarial examples via the convex outer adversarial polytope https://arxiv.org/abs/1711.00851 Scaling provable adversarial defenses https://github.com/locuslab/convex_adversarial 
 
-ICML 2018 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (Amazingly Good, kicking-face-paper, Need-to-Read Carefully) https://github.com/anishathalye/obfuscated-gradients 
+ICML 2018 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (Amazingly Good, kicking-face-paper, Need-to-Read Carefully) https://arxiv.org/abs/1802.00420 https://github.com/anishathalye/obfuscated-gradients 
 
-NIPS 2017 Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation https://github.com/max-andr/cross-lipschitz 
+NIPS 2017 Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation https://arxiv.org/abs/1705.08475 https://github.com/max-andr/cross-lipschitz 
 
-ICML 2018 Synthesizing robust adversarial examples https://github.com/prabhant/synthesizing-robust-adversarial-examples 
+ICML 2018 Synthesizing robust adversarial examples https://arxiv.org/abs/1707.07397 https://github.com/prabhant/synthesizing-robust-adversarial-examples 
 
 ICML 2018 Adversarial Attack on Graph Structured Data https://arxiv.org/abs/1806.02371 https://github.com/Hanjun-Dai/graph_adversarial_attack 
 
-ICML 2018 Black-box Adversarial Attacks with Limited Queries and Information https://github.com/labsix/limited-blackbox-attacks 
+ICML 2018 Black-box Adversarial Attacks with Limited Queries and Information https://arxiv.org/abs/1804.08598  https://github.com/labsix/limited-blackbox-attacks 
 
