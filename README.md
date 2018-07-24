@@ -50,7 +50,7 @@ NIPS 2017 Formal Guarantees on the Robustness of a Classifier against Adversaria
 
 ICML 2018 Synthesizing robust adversarial examples https://github.com/prabhant/synthesizing-robust-adversarial-examples 
 
-ICML 2018 Adversarial Attack on Graph Structured Data https://github.com/Hanjun-Dai/graph_adversarial_attack 
+ICML 2018 Adversarial Attack on Graph Structured Data https://arxiv.org/abs/1806.02371 https://github.com/Hanjun-Dai/graph_adversarial_attack 
 
 ICML 2018 Black-box Adversarial Attacks with Limited Queries and Information https://github.com/labsix/limited-blackbox-attacks 
 
