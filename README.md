@@ -4,7 +4,7 @@ CW Attack (Attack on Defensive Distillation) https://arxiv.org/abs/1607.04311
 
 AAAI 2018 Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients https://arxiv.org/abs/1711.09404 https://github.com/dtak/adversarial-robustness-public
 
-ICCV 2017 Adversarial Examples for Semantic Segmentation and Object Detection https://github.com/cihangxie/DAG
+ICCV 2017 Adversarial Examples for Semantic Segmentation and Object Detection https://arxiv.org/abs/1703.08603 https://github.com/cihangxie/DAG
 
 CVPR 2018 On the Robustness of Semantic Segmentation Models to Adversarial Attacks https://arxiv.org/abs/1711.09856  https://github.com/hmph/adversarial-attacks
 
