@@ -1,16 +1,16 @@
 # adv-attack
  
-AAAI 2018 Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients https://github.com/dtak/adversarial-robustness-public
+AAAI 2018 Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients https://arxiv.org/abs/1711.09404 https://github.com/dtak/adversarial-robustness-public
 
-CVPR 2018 On the Robustness of Semantic Segmentation Models to Adversarial Attacks https://github.com/hmph/adversarial-attacks
+CVPR 2018 On the Robustness of Semantic Segmentation Models to Adversarial Attacks https://arxiv.org/abs/1711.09856  https://github.com/hmph/adversarial-attacks
 
-CVPR 2018 Defense against Universal Adversarial Perturbations https://github.com/LTS4/universal
+CVPR 2018 Defense against Universal Adversarial Perturbations https://arxiv.org/abs/1711.05929 https://github.com/LTS4/universal
 
-CVPR 2018 Boosting Adversarial Attacks with Momentum https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks
+CVPR 2018 Boosting Adversarial Attacks with Momentum https://arxiv.org/abs/1710.06081 https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks
 
-CVPR 2018 Art of singular vectors and universal adversarial perturbations https://github.com/KhrulkovV/singular-fool 
+CVPR 2018 Art of singular vectors and universal adversarial perturbations https://arxiv.org/abs/1709.03582  https://github.com/KhrulkovV/singular-fool 
 
-CVPR 2018 Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser https://github.com/lfz/Guided-Denoise
+CVPR 2018 Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser https://arxiv.org/abs/1712.02976 https://github.com/lfz/Guided-Denoise
 
 CVPR 2018 Generative Adversarial Perturbations https://github.com/OmidPoursaeed/Generative_Adversarial_Perturbations
 
