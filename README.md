@@ -8,6 +8,8 @@ ICCV 2017 Adversarial Examples for Semantic Segmentation and Object Detection ht
 
 CVPR 2018 On the Robustness of Semantic Segmentation Models to Adversarial Attacks https://arxiv.org/abs/1711.09856  https://github.com/hmph/adversarial-attacks
 
+CVPR 2018 Deflecting Adversarial Attacks with Pixel Deflection https://arxiv.org/abs/1801.08926 https://github.com/iamaaditya/pixel-deflection
+
 CVPR 2018 Defense against Universal Adversarial Perturbations https://arxiv.org/abs/1711.05929 https://github.com/LTS4/universal
 
 CVPR 2018 Boosting Adversarial Attacks with Momentum https://arxiv.org/abs/1710.06081 https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks
